@@ -8,7 +8,7 @@
 <p> Developed with Unity 2021 on the Oculus Quest (designed for any general VR system). </p>
   
 #### How to Interact with the Environment
-<p> Download the apk to try it yourself! </p>
+<p> Download the <a href = "https://github.com/jjbdg/SWIM/blob/main/WIM-Application-Jpiv1212.apk">demo</a> to try it yourself! </p>
 <ol>
   <li> Grab objects with either the grip button, or by pointing and using the triggers.
   <li> Select the focus of the WIM with simple pointing and holding the secondary button on either controller.
